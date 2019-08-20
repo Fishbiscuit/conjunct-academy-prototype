@@ -99,10 +99,10 @@ html,body {
     font-weight: 500;
   }
   .messages {
-    padding: 40px 20px;
+    padding: 0px 10px;
   }
   .message {
-    padding: 40px 20px;
+    padding: 0px 10px;
   }
   .messages .action-buttons {
     padding: 0;
